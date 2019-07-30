@@ -1,0 +1,19 @@
+.head {
+    background: #fc0;
+    height: 100px;
+    position: relative;
+    width: 100px;
+  }
+  .face {
+    font-family: 'courier new', serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -60%) rotate(90deg);
+  }
+
+/*Ticket 34: Añadir Facebook Messenger como método de contacto con la empresa de transportes
+Ticket 35: Añadir sombras a los botones de hacer login y de guardar rutas favoritas
+Ticket 43: El color de los enlaces en la página de ayuda debe ser del rojo corporativo pero es morado*/
